@@ -123,7 +123,7 @@ Command behavior:
 
 A live demonstration of the system running on the EFR32MG24 development board is available below:
 
-🎥 Demo Video: [Watch the embedded voice recognition demo](https://drive.google.com/file/d/1H0-HGg7328QaLVfQQSd-1nvod7bsHxjc/view?usp=sharing)
+🎥 Demo Video: [Watch the embedded voice recognition demo](https://drive.google.com/file/d/1jMh-CHSm05VutlGFHZjGpvZv8jsUduhh/view?usp=sharing)
 
 ### Test Description
 
